@@ -4,7 +4,7 @@ class Leaderboard {
   }
 
   /**
-   *
+   * Get leaderboard by game and category id
    * @param {String} gameID
    * @param {String} categoryID
    * @returns {Promise}
@@ -14,7 +14,7 @@ class Leaderboard {
   }
 
   /**
-   *
+   * Get leaderboard by game, category, and level id
    * @param {String} gameID
    * @param {String} categoryID
    * @param {String} levelID

@@ -4,7 +4,7 @@ class Level {
   }
 
   /**
-   *
+   * Get level by id
    * @param {String} id
    * @returns {Promise}
    */
@@ -13,7 +13,7 @@ class Level {
   }
 
   /**
-   *
+   * Get level categories
    * @param {String} id
    * @returns {Promise}
    */
@@ -22,7 +22,7 @@ class Level {
   }
 
   /**
-   *
+   * Get level variables
    * @param {String} id
    * @returns {Promise}
    */
@@ -31,7 +31,7 @@ class Level {
   }
 
   /**
-   *
+   * Get level records
    * @param {String} id
    * @returns {Promise}
    */

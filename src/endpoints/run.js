@@ -105,7 +105,7 @@ class Run {
   }
 
   /**
-   *
+   *Get a run by multiple options
    * @param {JSON} runJSON - $schema "type": "object",
   "required": ["category", "platform", "times"],
   "properties": {

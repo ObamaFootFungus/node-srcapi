@@ -4,7 +4,7 @@ class Guest {
   }
 
   /**
-   *
+   * Get guest by name
    * @param {String} name
    * @returns {Promise}
    */
